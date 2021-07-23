@@ -1,0 +1,4 @@
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1616180561581/work
+PyJWT==1.7.0
+
